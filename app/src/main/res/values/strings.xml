@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_preset">PresetActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_voice">VoiceActivity</string>
+    <string name="flat">flat</string>
+    <string name="ft">Fetch Audio</string>
+    <string name="load">Load</string>
+    <string name="vq">VOICE EQUALIZER</string>
+    <string name="ar">--></string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="ot">"OUTPUT : "</string>
+    <string name="ld">"Load : "</string>
+</resources>
