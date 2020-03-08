@@ -14,7 +14,7 @@ import java.io.IOException;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private final String extStoragePath = Environment.getExternalStorageDirectory().getAbsolutePath();
-    private String filePath = extStoragePath + "/myAudio.3gp";
+    private String filePath = extStoragePath + "/myAudio1.3gp";
     private Button mBtnRecord;
     private Button mBtnPlay;
     private Button button;
